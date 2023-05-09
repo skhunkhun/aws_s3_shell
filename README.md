@@ -1,7 +1,7 @@
 Sunveer Khunkhun
 January 27 2023
 
-<!-- LIMITATIONS -->
+## LIMITATIONS
 
     - The S5-S3.conf file uses [default]
 
@@ -17,7 +17,7 @@ January 27 2023
             Folder - 's3delete /<bucket name>/<folder>/'
             File - 's3delete /<bucket name>/<path to file>
 
-<!-- HOW TO RUN SHELL: -->
+## HOW TO RUN SHELL
 
     Use 'tar -xvf Assignment1.tar' to unzip the tar file
     Install all the requirements in the requirements.txt file (used only the packages that were given in the sample code)
@@ -30,7 +30,7 @@ January 27 2023
     
     Run 'python3 s3Main.py' and the shell should start immediately if the right packages are installed
 
-<!-- NORMAL BEHAVIOUR: -->
+## NORMAL BEHAVIOUR
 
     Local Shell Commands:
         -Commands like 'ls' and 'cd' should work as intended 
